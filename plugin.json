@@ -1,0 +1,14 @@
+{
+  "type": "panel",
+  "name": "XSSPanel",
+  "id": "xss.panel",
+  "info": {
+    "version": "1.0.0",
+    "description": "Malicious plugin for testing CVE-2025-4123"
+  },
+  "includes": [],
+  "dependencies": {
+    "grafanaVersion": "8.x.x"
+  },
+  "module": "module.js"
+}
